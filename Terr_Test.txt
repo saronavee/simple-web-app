@@ -1,5 +1,2 @@
 Welcome to the Terraform documentation!
 
-There are a lot of things a user of Terraform might need to know about. To help you manage this information, we've divided the Terraform docs into several sections.
-
-Yo
