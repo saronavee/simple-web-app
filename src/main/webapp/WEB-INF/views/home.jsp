@@ -7,24 +7,10 @@
 <div class="container-fluid main">
 	<div class="row-fluid">
 		<div class="span10 offset1">
-
-			<h1>2 Namma DevOps Class	11 02 2020</h1>
-			<h1>3 Namma DevOps Class	11 02 2020</h1>
-			<h1> 4Namma DevOps class 12 02 2020</h1>
-			<h1>5 Namma DevOps Class	11 02 2020 Sharath</h1>
-			<h1>7 Namma DevOps Class	11 02 2020</h1>
-			<h1>8 Namma DevOps Class	11 02 2020</h1>
-			<h1> Namma DevOps class 12 02 2020 Sharath conflicts</h1>
-			<h1> namma class DevOps Class	11 02 2020 Sharath</h1>
-			<h1> Namma class DevOps Class	11 02 2020</h1>
-			<h1> Namma class DevOps Class	11 02 2020</h1>
-			<h1> Namma class DevOps class   12 02 2020 vijindas </h1>
-			<h1> Namma class DevOps Class	11 02 2020</h1>
-			<h1> Namma class DevOps class   12 02 2020</h1
-			<h1> Namma class DevOps class   12 02 2020 Ambadath </h1>
-			<h1> Namma class DevOps Class	11 02 2020</h1>
-			<h1> Namma class DevOps class   12 02 2020</h1
-		
+			<h1>DevOps Traning Mohanraj Vellingiri</h1>
+			<h1>DevOps Traning	12 09 2020</h1>
+			<h1>DevOps Traning  12 09 2020</h1>
+			<h1>DevOps Traning Mohanraj Vellingiri</h1>
 			<div>
 				<p class="well">
 					<security:authorize access="hasRole('ROLE_USER')">
