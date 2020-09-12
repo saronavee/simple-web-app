@@ -8,6 +8,7 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">
 
+<<<<<<< HEAD
 			<h1> Devops Training Nallaperumal TN	</h1>
 			<h1> Namma DevOps class 12 02 2020 Sharath conflicts</h1>
 			<h1> namma class DevOps Class	11 02 2020 Sharath</h1>
@@ -15,6 +16,14 @@
 			<h1> Namma class DevOps Class	11 02 2020</h1>
 			<h1> Devops Training Nallaperumal TN	</h1>
 			
+=======
+			<h1>2 DevOps Training Mohit Kambam</h1>
+			<h1>3 DevOps Training 12 09 2020</h1>
+			</h1> DevOps Training 12 09 2020 Mohit Kambam</h1>
+			
+			
+			<h1> Namma class DevOps class   12 02 2020</h1
+>>>>>>> a657ebd57f0094aa02584b746b24dc0358f37aff
 		
 			<div>
 				<p class="well">
