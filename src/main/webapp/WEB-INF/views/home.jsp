@@ -12,7 +12,7 @@
 			<h1>DevOps Traning  12 09 2020</h1>
 			<h1>DevOps Traning Mohanraj Vellingiri</h1>
 			<h1>Devops Training Nallaperumal TN	</h1>
-			<h1>Devops Training Nallaperumal TN	</h1>
+			<h1>Devops Training Vijay AP	</h1>
 			<h1>Updated by Mohanraj</h1>
 			<h1>Change for TouchScreen UI	</h1>
 			<h1>DevOps Training Mohit Kambam</h1>
