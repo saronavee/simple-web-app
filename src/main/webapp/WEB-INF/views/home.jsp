@@ -7,7 +7,7 @@
 <div class="container-fluid main">
 	<div class="row-fluid">
 		<div class="span10 offset1">
-			<h1>DevOps Traning Mohanraj Vellingiri</h1>
+			<h1>Hello today is 10112020</h1>
 			<h1>DevOps Traning	12 09 2020</h1>
 			<h1>DevOps Traning  12 09 2020</h1>
 			<h1>DevOps Traning Mohanraj Vellingiri</h1>
