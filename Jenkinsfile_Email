@@ -1,0 +1,40 @@
+pipeline{
+  agent { node { label 'master' } } 
+    tools {
+      git 'Git'
+      maven 'maven'
+}
+
+  environment {
+        IMAGE_TAG = "${env.BUILD_NUMBER}"
+        
+  }
+
+stages{
+
+   stage('SCM Checkout'){
+     steps{
+       git 'https://github.com/mohansgithub/simple-web-app.git'
+     }
+   }
+                        
+   stage('Unit Testing'){
+     steps{
+             bat label: '', script: 'mvn clean test'
+     }
+   }
+   stage('Maven packing'){
+     steps{
+           bat label: '', script: 'mvn clean package'
+        }
+    }
+    stage('Send Email') {
+      steps {
+        emailext attachLog: true, body: 'Hope You are Happy Learning ! This email is Sent from Jenkins Your build is Good. Please Check console output at ${env.BUILD_URL}">${env.JOB_NAME}', recipientProviders: [developers()], subject: 'Job \'${env.JOB_NAME} ${env.BUILD_NUMBER}\'', to: 'mohanraj123@gmail.com,vemanavijaykumar154@gmail.com,Manoharreddyvits@gmail.com,nakramesh@gmail.com,stnl22@gmail.com,vinoth.avk@gmail.com',from: "mydevopstrainings@gmail.com"
+      }            
+            
+    }
+  }
+}
+                
+    
