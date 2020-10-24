@@ -7,7 +7,7 @@
 <div class="container-fluid main">
 	<div class="row-fluid">
 		<div class="span10 offset1">
-			<h1>Confluence and Jira work Together</h1>
+			<h1> TS-6 Happy Dasara</h1>
 			<div>
 				<p class="well">
 					<security:authorize access="hasRole('ROLE_USER')">
