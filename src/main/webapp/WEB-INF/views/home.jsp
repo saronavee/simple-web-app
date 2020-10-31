@@ -7,7 +7,7 @@
 <div class="container-fluid main">
 	<div class="row-fluid">
 		<div class="span10 offset1">
-			<h1> TS-6 Happy Dasara</h1>
+			<h1> NOV-3 BLUETOOTH</h1>
 			<div>
 				<p class="well">
 					<security:authorize access="hasRole('ROLE_USER')">
