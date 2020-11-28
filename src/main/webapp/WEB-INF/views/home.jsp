@@ -9,9 +9,10 @@
 		<div class="span10 offset1">
 			<h1> Elango DEVOPS</h1>
 			h1> Elango DEVOPS</h1>
-			h1> Elango DEVOPS</h1>
-			h1> Elango DEVOPS</h1>
-			<div>
+			<h1> Hema DEVOPS</h1>
+			<h1> MADHES DEVOPS</h1>
+			<h1> Loka Mahesh DEVOPS</h1>
+				<div>
 				<p class="well">
 					<security:authorize access="hasRole('ROLE_USER')">
 						<b><span class="text-success">You are currently logged in.</span></b>
