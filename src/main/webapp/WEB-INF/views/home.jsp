@@ -8,6 +8,8 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">
 			<h1> SAIBALJI DEVOPS</h1>
+			<h1> RAJ1 DEVOPS</h1>
+			<h1> RAJ2 DEVOPS</h1>
 			<div>
 				<p class="well">
 					<security:authorize access="hasRole('ROLE_USER')">
