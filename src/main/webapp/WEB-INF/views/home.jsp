@@ -8,23 +8,11 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">
 			<h1>DevOps Traning Mohanraj Bangalore</h1>
-			<h1>DevOps Traning	12 09 2020</h1>
-			<h1>DevOps Traning  12 09 2020</h1>
-			<h1>DevOps Traning Mohanraj Vellingiri</h1>
-			<h1> Devops Training Nallaperumal TN	</h1>
-			<h1> Devops Training Nallaperumal TN	</h1>
-			<h1>2 DevOps Training Mohit Kambam</h1>
-			</h1> DevOps Training 12 09 2020 Mohit Kambam</h1>
+
 			<div>
 			<h1> Elango DEVOPS</h1>
 			h1> Elango DEVOPS</h1>
-			<h1> Hema DEVOPS</h1>
 
-			<h1> Hema DEVOPS</h1>
-			<h1> Hema DEVOPS</h1>
-			<h1> Hema DEVOPS</h1>
-			<h1> Hema DEVOPS2</h1>
-			<h1> Hema DEVOPS2</h1>
 
 			<h1> MADHES DEVOPS</h1>
 			<h1> Loka Mahesh DEVOPS</h1>
