@@ -12,6 +12,11 @@
 			<h1> Loka Mahesh DEVOPS Rocks Devops</h1>
 			<h1> Raj Devops Devops DEVOPS</h1>			
 			<h1> Elango Excellent DEVOPS</h1>
+			<h1> vijay kumar</h1>
+			<h1> MADHES DEVOPS</h1>
+			<h1> Loka Mahesh DEVOPS</h1>
+			<h1> Raj DEVOPS</h1>			
+			<h1> Elango DEVOPS</h1>
 				<div>
 
 				<p class="well">
