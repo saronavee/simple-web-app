@@ -7,7 +7,7 @@
 <div class="container-fluid main">
 	<div class="row-fluid">
 		<div class="span10 offset1">
-			<h1> Hema DEVOPS2</h1>
+			<h1> vijay kumar</h1>
 			<h1> MADHES DEVOPS</h1>
 			<h1> Loka Mahesh DEVOPS</h1>
 			<h1> Raj DEVOPS</h1>			
