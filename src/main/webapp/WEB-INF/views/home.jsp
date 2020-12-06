@@ -8,7 +8,7 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">
 			<h1> Hema DEVOPS2</h1>
-			<h1> revert me is possible Mohanraj Testing the commit message twice</h1>
+			<h1> Mohanraj Testing the commit message twice</h1>
 			<h1> Loka Mahesh DEVOPS Rocks Devops</h1>
 			<h1> Raj Devops Devops DEVOPS</h1>			
 			<h1> Elango Excellent DEVOPS</h1>
