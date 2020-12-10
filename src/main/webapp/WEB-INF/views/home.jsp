@@ -17,6 +17,9 @@
 			<h1> Loka Mahesh DEVOPS</h1>
 			<h1> Raj DEVOPS</h1>			
 			<h1> Elango DEVOPS</h1>
+			<h1> Raj2 DEVOPS</h1>			
+			<h1> Elango2 DEVOPS</h1>
+
 				<div>
 
 				<p class="well">
