@@ -1,11 +1,6 @@
 pipeline{
   agent any
-  tools {
-      git 'git'
-      maven 'maven'
-}
-
-  environment {
+   environment {
         IMAGE_TAG = "${env.BUILD_NUMBER}"
         
   }
