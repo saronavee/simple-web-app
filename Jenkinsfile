@@ -1,5 +1,5 @@
 pipeline{
-  agent any
+  agent { label 'demonode'}
    environment {
         IMAGE_TAG = "${env.BUILD_NUMBER}"
         
