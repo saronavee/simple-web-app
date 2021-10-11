@@ -31,6 +31,13 @@ stages{
             
     }
 
+    stage('Onput') {
+            steps {
+                input('Do you want to proceed to dev?')
+            }            
+            
+    }
+
     
 }
 }
