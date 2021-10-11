@@ -1,11 +1,6 @@
 pipeline{
-  agent any
-  tools {
-      git 'git'
-      maven 'maven'
-}
-
-  environment {
+  agent { label 'demonode'}
+   environment {
         IMAGE_TAG = "${env.BUILD_NUMBER}"
         
   }
@@ -20,12 +15,12 @@ stages{
                         
    stage('Unit Testing'){
      steps{
-             bat label: '', script: 'mvn clean test'
+             sh label: '', script: 'mvn clean test'
      }
    }
       stage('Maven packing'){
      steps{
-           bat label: '', script: 'mvn clean package'
+           sh label: '', script: 'mvn clean package'
         }
     }
     
