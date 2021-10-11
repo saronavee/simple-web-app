@@ -20,7 +20,7 @@ stages{
    }
       stage('Maven packing'){
      steps{
-           bat label: '', script: 'mvn clean package'
+           sh label: '', script: 'mvn clean package'
         }
     }
     
