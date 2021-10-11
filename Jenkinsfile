@@ -15,7 +15,7 @@ stages{
                         
    stage('Unit Testing'){
      steps{
-             bat label: '', script: 'mvn clean test'
+             sh label: '', script: 'mvn clean test'
      }
    }
       stage('Maven packing'){
